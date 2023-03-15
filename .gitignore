@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+
+# Cache
+cache.sqlite
+
+# Pipfile
+Pipfile
+Pipfile.lock
